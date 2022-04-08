@@ -1,4 +1,4 @@
-# Car gallery
+# Pesel Vadlidator
 The goal of this simple application is to show how implement list with ViewPager.
 
 ## Table of Contents
@@ -13,40 +13,29 @@ The goal of this simple application is to show how implement list with ViewPager
 
 
 ## General Informationt
-The application was developed as a part of university class. The aim of this project was to create a
-list with a possibility of choosing particular elements what would allow the user to get more pictures and information about the chosen item. The user can easily delate the alements from the list by swiping. What is more, the user can create a new, personalized list of his favourite items which would appear in rolled up menu. 
-
+The aim of creating this application was to become acquainted with Jetpack Compose toolkit used for building native UI. 
+Pesel Validator was created in order to check PESEL (Personal ID Number) number correctness. After entering correct number the app shows owners basic data like date of birth, sex and it's validity. 
+In case oof entering incorrect number, the app recognizes it as invalid.
 
 ## Technologies Used
 - Material Design
-- ViewPager2
-- Navigation Component
-- ViewModel
-- Kotlin version 1.4.20
-- RecyclerView-v7 version 28.0.0
+- Jetpack Compose
 
 
 ## Features
 List the ready features here:
-* scrolling the vechicle list 
-* flitering the list by car brand
-* adding a vechicle to favourites
-* deleting an item from the list 
+* entering Personal ID Number 
+* presenting basic information about the number owner
 
 
 ## Screenshots
 Application screenshot review
-### Car list screen 
-![](./screenshots/list_screen.png)
+### Main screen 
+![](./screenshots/main_screen.png)
 
-### Selected car information screen 
+### Personal information screen 
 ![](./screenshots/details_screen.png)
 
-### Selected car pictures screen 
-![](./screenshots/photo_screen.png)
-
-### Selected car desctiprion screen 
-![](./screenshots/description_screen.png)
 
 ## Setup
 1. Download the samples by cloning this repository
