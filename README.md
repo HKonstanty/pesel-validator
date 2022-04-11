@@ -36,7 +36,9 @@ Application screenshot review
 </p>
 
 ### Personal information screen 
-![](./screenshots/details_screen.png)
+<p align="left">
+	<img src="./screenshots/details_screen.png" width="250">
+</p>
 
 
 ## Setup
