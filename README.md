@@ -31,7 +31,9 @@ List the ready features here:
 ## Screenshots
 Application screenshot review
 ### Main screen 
-![](./screenshots/main_screen.png)
+<p align="left">
+	<img src="./screenshots/main_screen.png" width="250">
+</p>
 
 ### Personal information screen 
 ![](./screenshots/details_screen.png)
